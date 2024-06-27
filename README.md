@@ -1,4 +1,3 @@
-![2](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/179dfb2d-6a35-4b79-8ad5-8266b5ae2448)![1](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/1a91db43-c284-4bed-a3c0-9a86f4cc5e8e)# Muhan 
 ## 주요 구현 기능  
 [SpringMVC]     
 [myBatis]  
@@ -6,22 +5,6 @@
 [log4j]  
 
 ## 개발완료 시연 주요 화면
-![Uploading 1![Uploading 2.png…]![15](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/63b39ca3-7b91-4bf1-a61a-2662a4d55844)
-![14](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/e9a3f2df-974c-4e50-9bb2-cc2890fe2a7c)
-![13](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/9a26c389-e669-4983-8c00-8c94629444c3)
-![12](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/5983ccf0-2022-41f2-8c0e-9e87d9626c67)
-![11](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/41762104-34e1-46d8-adc8-b845239fd0dd)
-![10](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/aecbfc70-4b3a-43f9-85b7-40ecb9c1da68)
-![9](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/94f2f30b-1a97-44e1-9b7c-936b1b741f94)
-![8](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/783bcf75-134a-4673-830e-1d9c6243162e)
-![7](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/fbed314f-62a4-4575-8c07-6897d4d82d08)
-![6](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/4c5b9df8-1980-4bf1-88b5-33e14c731c74)
-![5](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/1b7efc15-c096-4baa-8a0e-a00d39b1ce5f)
-![4](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/df4df6fb-ff29-409c-ae56-eda2c0d0b2ef)
-![3](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/bef195cc-d7f0-4327-8a83-e3e277286ec6)
-()
-.png…]()
-
 
 ## 개발일정   
 <img src ="https://user-images.githubusercontent.com/64457004/95589062-2f8fa700-0a7f-11eb-85b3-439a412f62b1.png" width="600px"/>
