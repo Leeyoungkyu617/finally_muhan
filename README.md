@@ -28,7 +28,7 @@
 <img src="https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/5ae1041c-305b-4ef4-9c56-48190cf1e01f.png" width="600px" />
 
 
-## 유스케이스 다이아그
+## 유스케이스 다이아그램
 <img src ="https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/1cb67d57-f02a-454f-bfcd-9b2a646ad673.png" width="600px"/>  
 
 
