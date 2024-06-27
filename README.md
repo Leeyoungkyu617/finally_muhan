@@ -6,6 +6,11 @@
 
 ## 개발완료 시연 주요 화면
 
+![1](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/2166394b-f1a3-434f-a4d4-0b5dcf68aafc)
+![2](https://github.com/Leeyoungkyu617/finally_muhan/assets/70137249/2b517087-6f4a-48e0-861d-579f08961029)
+
+
+
 ## 개발일정   
 <img src ="https://user-images.githubusercontent.com/64457004/95589062-2f8fa700-0a7f-11eb-85b3-439a412f62b1.png" width="600px"/>
 
